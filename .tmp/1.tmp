@@ -1,0 +1,32 @@
+
+(yad:141331): GLib-GIO-CRITICAL **: 16:48:40.603: g_dbus_proxy_new: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+FALSE| |
+TRUE|billquick_web_suite|
+TRUE|contest_gallery|
+TRUE|doctor_appointment_system|
+TRUE|meshery|
+TRUE|modern_events_calendar_lite|
+TRUE|paid_memberships_pro|
+TRUE|perfect_survey|
+TRUE|pie_register|
+TRUE|podlove_podcast_publisher|
+TRUE|prestashop|
+TRUE|rocket.chat|
+TRUE|rosariosis|
+TRUE|smartblog|
+TRUE|web_server|
+TRUE|asgaros_forum|
+TRUE|billquick_web_suite|
+TRUE|contest_gallery|
+TRUE|doctor_appointment_system|
+TRUE|meshery|
+TRUE|modern_events_calendar_lite|
+TRUE|paid_memberships_pro|
+TRUE|perfect_survey|
+TRUE|pie_register|
+TRUE|podlove_podcast_publisher|
+TRUE|prestashop|
+TRUE|rocket.chat|
+TRUE|rosariosis|
+TRUE|smartblog|
+TRUE|web_server|

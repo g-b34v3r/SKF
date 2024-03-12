@@ -1,0 +1,21 @@
+ /usr/share/icons/Windows-10-Icons/scalable/actions/document-open-recent-symbolic.svg			star
+/usr/share/icons/Windows-10-Icons/scalable/actions/edit-cut-symbolic.svg				scissors
+/usr/share/icons/Windows-10-Icons/scalable/actions/find-location-symbolic.svg				target
+/usr/share/icons/Windows-10-Icons/scalable/emblems/emblem-default-symbolic.svg				check
+/usr/share/icons/Windows-10-Icons/scalable/emblems/emblem-synchronizing-symbolic.svg			
+/usr/share/icons/Windows-10-Icons/scalable/emblems/emblem-system-symbolic.svg				setting
+/usr/share/icons/Windows-10-Icons/scalable/mimetypes/application-x-appliance-symbolic.svg
+/usr/share/icons/Windows-10-Icons/scalable/mimetypes/libreoffice-oasis-formula.svg			calc
+/usr/share/icons/Windows-10-Icons/scalable/places/folder-publicshare-symbolic.svg			cloud
+/usr/share/icons/Windows-10-Icons/scalable/status/display-brightness-symbolic.svg			sun
+/usr/share/icons/Windows-10-Icons/scalable/status/dialog-password-symbolic.svg				shield
+/usr/share/icons/Windows-10-Icons/scalable/status/mail-attachment-symbolic.svg				clip
+/usr/share/icons/Windows-10-Icons/scalable/status/network-cellular-edge-symbolic.svg			E
+/usr/share/icons/Windows-10-Icons/scalable/status/network-cellular-gprs-symbolic.svg			G
+/usr/share/icons/Windows-10-Icons/scalable/status/network-cellular-umts-symbolic.svg			U
+/usr/share/icons/Windows-10-Icons/scalable/status/nm-vpn-standalone-lock.svg				logo
+/usr/share/icons/Windows-10-Icons/scalable/status/security-high-symbolic.svg				chk sheild
+/usr/share/icons/Windows-10-Icons/scalable/status/security-medium-symbolic.svg				!
+/usr/share/icons/Windows-10-Icons/scalable/status/semi-starred-rtl-symbolic.svg				1/2 star
+/usr/share/icons/Windows-10-Icons/scalable/status/semi-starred-symbolic.svg				other 1/2
+/usr/share/icons/Windows-10-Icons/scalable/status/starred-symbolic.svg					full star
